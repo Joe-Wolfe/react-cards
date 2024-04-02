@@ -1,0 +1,15 @@
+.playing-area {
+    background-color: aquamarine;
+    height: 90vh;
+    width: 80vw;
+}
+
+.deck {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+    height: 50%;
+    width: 100%;
+}
